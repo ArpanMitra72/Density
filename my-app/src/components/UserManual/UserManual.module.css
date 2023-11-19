@@ -1,0 +1,111 @@
+.mainContainer {
+  width: 1446px;
+  height: 2617.33px;
+  padding: 120px, 0px, 120px, 0px;
+  gap: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.textBox {
+  width: 650px;
+  height: 160px;
+}
+.mainText {
+  font-family: Neurial Grotesk;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 80px;
+  letter-spacing: -0.021em;
+  text-align: center;
+
+  font-family: Neurial Grotesk;
+  font-size: 72px;
+  font-weight: 500;
+  line-height: 80px;
+  letter-spacing: -0.021em;
+  text-align: center;
+  font-family: Neurial Grotesk;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 80px;
+  letter-spacing: -0.021em;
+  text-align: center;
+
+  font-family: Neurial Grotesk;
+  font-size: 72px;
+  font-weight: 500;
+  line-height: 80px;
+  letter-spacing: -0.021em;
+  text-align: center;
+  color: white;
+}
+.styleText {
+  color: rgba(235, 255, 37, 1);
+}
+.imageBox {
+  width: 1446px;
+  height: 2097.33px;
+  gap: 40px;
+}
+.contentBox {
+  width: 1442px;
+  height: 645.78px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.RightSideBox {
+  width: 384px;
+  height: 342px;
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.BoxMainText {
+  font-family: Neurial Grotesk;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 0px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+.BoxSmallText {
+  font-family: Neurial Grotesk;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+.buttonStyle {
+  width: 216px;
+  height: 48px;
+  padding: 24px, 48px, 24px, 48px;
+  border-radius: 8px;
+  gap: 10px;
+  background: linear-gradient(85.85deg, #d4f938 23.09%, #32d875 108.69%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buttonText {
+  font-family: Neurial Grotesk;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: black;
+}
+.vector {
+  width: 1134px;
+  border: 1px solid;
+  opacity: 0.4px;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 200px;
+}

@@ -1,0 +1,56 @@
+.mainContainer {
+  width: 1446px;
+  height: 171px;
+  padding: 0px, 216px, 0px, 216px;
+  gap: 10px;
+}
+.innerBox {
+  width: 1014px;
+  height: 171px;
+  margin-left: 216px;
+  display: flex;
+  justify-content: space-around;
+  border: 1.5px solid;
+  border-image-source: linear-gradient(
+    180deg,
+    rgba(50, 216, 117, 0.24) 0%,
+    rgba(226, 255, 111, 0.25) 121.93%
+  );
+  border-image-slice: 1; /* Ensure the entire border is covered by the gradient */
+  border-image-repeat: stretch; /* Stretch the gradient to fill the border */
+}
+
+.adjustText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.vector {
+  height: 172px;
+  width: 1.5px;
+  background: linear-gradient(
+    180deg,
+    rgba(235, 255, 37, 0) 15.62%,
+    rgba(235, 255, 37, 0.4) 49.48%,
+    rgba(235, 255, 37, 0) 85.42%
+  );
+}
+.text {
+  color: rgba(235, 255, 37, 1);
+  font-family: Neurial Grotesk;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.smallText {
+  color: rgba(169, 169, 169, 1);
+  font-family: Neurial Grotesk;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+}

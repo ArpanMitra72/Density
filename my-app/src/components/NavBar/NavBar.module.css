@@ -1,0 +1,62 @@
+.fullNavbar {
+  background-color: #2a5d32;
+  width: 1446px;
+  height: 96px;
+  border: 0px, 0px, 1px, 0px;
+  padding: 24px, 216px, 24px, 216px Gap 387px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.IcontextAndPic {
+  width: 99.95px;
+  height: 24px;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+.iconText {
+  font-size: 24px;
+  font-weight: bold;
+  color: rgba(226, 255, 111, 1);
+  margin: 0;
+}
+.rightPortion {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 519px;
+  height: 48px;
+  gap: 56px;
+}
+.navigatingItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 302px;
+  height: 17px;
+  gap: 34px;
+}
+
+.text {
+  font-family: "Neurial Grotesk";
+  font-weight: 400;
+  size: 14px;
+  color: white;
+  line-height: 16.8px;
+}
+.lastButton {
+  width: 161px;
+  height: 48px;
+  border-radius: 8px;
+  padding: 16px, 32px, 16px, 32px;
+  gap: 10px;
+  background: linear-gradient(85.85deg, #d4f938 23.09%, #32d875 108.69%);
+}
+.buttonText {
+  font-family: "Neurial Grotesk";
+  font-weight: 700;
+  size: 16px;
+  line-height: 19.2px;
+  color: black;
+}

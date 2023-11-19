@@ -1,0 +1,33 @@
+.mainContainer {
+  width: 1446px;
+  height: 876px;
+  padding: 140px, 0px, 140px, 0px;
+  gap: 82px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.textArea {
+  width: 775px;
+  height: 154px;
+  gap: 40px;
+}
+.mainText {
+  font-family: Neurial Grotesk;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 77px;
+  letter-spacing: -2.096774101257324px;
+  text-align: center;
+  color: white;
+}
+.styleText {
+  color: rgba(235, 255, 37, 1);
+}
+.memberArea {
+  width: 1017px;
+  height: 360px;
+  gap: 24px;
+  display: flex;
+}

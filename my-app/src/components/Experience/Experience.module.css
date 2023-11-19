@@ -1,0 +1,49 @@
+.mainContainer {
+  width: 1446px;
+  height: 915px;
+  padding: 117px, 160px, 117px, 160px;
+  gap: 64px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.textBox {
+  width: 1126px;
+  height: 167px;
+  gap: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: normal;
+  align-items: center;
+}
+.mainText {
+  font-family: Neurial Grotesk;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 77px;
+  margin-bottom: 15px;
+  letter-spacing: -2.096774101257324px;
+  text-align: center;
+  color: black;
+}
+.smallTextBox {
+  width: 550px;
+  height: 66px;
+}
+.smallText {
+  font-family: Neurial Grotesk;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(50, 51, 58, 1);
+}
+.opinionBox {
+  width: 1126px;
+  height: 450px;
+  gap: 20px;
+  display: flex;
+}

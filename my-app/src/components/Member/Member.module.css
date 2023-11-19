@@ -1,0 +1,69 @@
+.mainContainer {
+  width: 1446px;
+  height: 1265.92px;
+  padding: 140px, 0px, 140px, 0px;
+  gap: 82px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.textBox {
+  width: 641px;
+  height: 77px;
+  gap: 40px;
+}
+.mainText {
+  font-family: Neurial Grotesk;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 77px;
+  letter-spacing: -2.096774101257324px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+.logoBox {
+  display: flex;
+  width: 954px;
+  height: 300.92px;
+  gap: 80px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.personBox {
+  width: 950px;
+  height: 446px;
+  gap: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.personOne {
+  font-family: Neurial Grotesk;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+.personTwoMain {
+  font-family: Neurial Grotesk;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 0px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: white;
+}
+.personTwo {
+  font-family: Neurial Grotesk;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 5px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: white;
+}

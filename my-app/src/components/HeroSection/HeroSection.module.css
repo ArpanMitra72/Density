@@ -1,0 +1,123 @@
+.mainContainer {
+  width: 1446.59px;
+  height: 1215.7px;
+  padding: 80px, 0px, 120px, 0px;
+  gap: 76px;
+  background-color: black;
+}
+
+.MainText {
+  font-family: Neurial Grotesk;
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 100px;
+  letter-spacing: -4.190476417541504px;
+  text-align: center;
+  color: white;
+}
+.styleText {
+  width: 280px;
+  height: 100px;
+  top: 102px;
+  left: 287px;
+  font-family: Neurial Grotesk;
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 100px;
+  letter-spacing: -4.190476417541504px;
+  text-align: center;
+  color: rgba(213, 250, 57, 0.7);
+}
+.smallText {
+  font-family: Neurial Grotesk;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: white;
+}
+
+.Main {
+  position: absolute;
+  width: 329.93px;
+  height: 668.7px;
+  top: 700px;
+  left: 558.99px;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+.MainImages {
+  width: 329.93px;
+  height: 668.7px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+.MainPhoneImages {
+  width: 297.24px;
+  height: 641.39px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+
+.leftImages {
+  position: absolute;
+  width: 261.34px;
+  height: 529.67px;
+  top: 700px;
+  left: 333.2px;
+  transform: translateY(-50%);
+}
+
+.leftMainImage {
+  width: 261.34px;
+  height: 529.67px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.leftPhoneImage {
+  width: 235.44px;
+  height: 508.04px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.rightImages {
+  position: absolute;
+  width: 260.41px;
+  height: 527.79px;
+  top: 700px;
+  left: 852.39px;
+  transform: translateY(-50%);
+}
+.rightMainImage {
+  width: 261.34px;
+  height: 529.67px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.rightPhoneImage {
+  width: 234.6px;
+  height: 506.24px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.rightImages {
+  right: 0;
+}

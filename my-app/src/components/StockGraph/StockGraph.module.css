@@ -1,0 +1,84 @@
+.mainContainer {
+  width: 1446px;
+  height: 1280px;
+  padding: 150px, 0px, 150px, 0px;
+  gap: 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.mainTextBox {
+  width: 846px;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mainText {
+  font-family: Neurial Grotesk;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: -2.096774101257324px;
+  text-align: center;
+  color: white;
+}
+.styleText {
+  font-family: Neurial Grotesk;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 77px;
+  letter-spacing: -2.096774101257324px;
+  text-align: center;
+  color: rgba(235, 255, 37, 1);
+}
+.miniTextBox {
+  width: 600px;
+  height: 66px;
+}
+.miniText {
+  font-family: Neurial Grotesk;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(231, 231, 234, 1);
+}
+.middleTextBox {
+  display: flex;
+  justify-content: space-evenly;
+  width: 1140px;
+  height: 171px;
+  border-radius: 8px;
+  border: 1px;
+  justify: space-between;
+  background: linear-gradient(
+      0deg,
+      rgba(16, 16, 16, 0.4),
+      rgba(16, 16, 16, 0.4)
+    ),
+    linear-gradient(0deg, rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.25));
+}
+.insideTextBox {
+  width: 150px;
+  height: 76px;
+  gap: 4px;
+}
+.insideText {
+  font-family: Neurial Grotesk;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+.vector {
+  margin-top: 40px;
+  height: 88px;
+  border: 1px;
+  border: 1px solid rgba(169, 169, 169, 1);
+}
